@@ -2,3 +2,5 @@ venv
 logs
 .devcontainer/
 salaryregression.ipynb
+regression_model.h5
+regressionlogs
